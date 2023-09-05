@@ -153,7 +153,7 @@ ul li:hover > a {
 }
 
 .sliderSection {
-    background: url("./image/1.jpg") center top / cover no-repeat fixed;
+    background: url("./Image/main-banner2.jpg") center top / cover no-repeat fixed;
 }
 
 .slider-content-wrap {
@@ -251,7 +251,7 @@ ul li:hover > a {
     position: absolute;
     bottom: 5px;
     right: 100px;
-    background: url("./Image/12.png") center center / contain no-repeat;
+    background: url("./Image/shape.png") center center / contain no-repeat;
     width: 200px;
     height: 200px;
 }
